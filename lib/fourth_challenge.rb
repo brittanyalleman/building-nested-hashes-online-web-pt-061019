@@ -7,8 +7,8 @@ def fourth_challenge
       :hero_friends => [
         #your hashes here!
       ]
-   }, 
-   :capulet => {
+   },
+   :capulet => { 
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
       :heroine => {name: "Juliet", age: "15", status: "alive"},
@@ -18,6 +18,6 @@ def fourth_challenge
    }
 }
 
-  
+
 
 end
